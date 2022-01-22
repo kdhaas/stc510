@@ -1,3 +1,6 @@
+Kyle Haas script for Module 2 Project
+Script includes initial session, and a second session at the bottom that generated the attatched search results
+
 Last login: Tue Jan 18 21:07:10 on ttys000
 (base) kyle.haas@KyleH-Workstation ~ % curl -s -L http://bit.ly/fbi-help -o mod2.tar.gz
 (base) kyle.haas@KyleH-Workstation ~ % tar -xvzf mod2.tar.gz
